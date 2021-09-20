@@ -13,7 +13,6 @@ body {
     text-decoration: none!important;
     float: left;
     padding: 14px 18px;
-
 }
 
 .new-arrivals {
@@ -24,14 +23,14 @@ body {
 }
 
 .new-arrivals img {
-    width: 350px;
+    width: 250px;
 }
 
 .text-bold {
     font-weight: bold;
 }
 
-.intro {
+.perkenalan {
     display: flex;
     margin: 5%;
     justify-content: center;
@@ -39,14 +38,13 @@ body {
 }
 
 .text-intro {
-    padding: 1% 7%;
-    
+    padding: 10% 5%;
 }
 
 .newsletter {
     margin: 5%;
     background-color: #333;
     color: white;
-    padding: 25px 20px;
+    padding : 25px 20px;
 }
 

@@ -106,4 +106,3 @@ showPassword.addEventListener("click", function() {
   svg.classList.toggle("looking");
   password.type = this.classList.contains("active") ? "text" : "password";
 });
-
